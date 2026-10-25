@@ -1,5 +1,4 @@
-# <p align="center"> :8ball: Title :8ball: </p>
-### <p align="center"> <i> Awesome text below </i> </p>
+# <p align="center"> :crystal_ball: Title :crystal_ball: </p>
 
 <p align="center">
   <img src="/assets/preview.webp" alt="Project preview" />
@@ -10,7 +9,7 @@
 
 ## :hammer_and_wrench: Installation
 
-*some text*
+*\*some text\**
 
 ## :scroll: License
 
